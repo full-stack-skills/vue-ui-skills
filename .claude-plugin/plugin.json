@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/vue-ui-skills",
-  "repository": "https://github.com/full-statck-skills/vue-ui-skills",
+  "homepage": "https://github.com/full-stack-skills/vue-ui-skills",
+  "repository": "https://github.com/full-stack-skills/vue-ui-skills",
   "source": "./",
   "skills": [
     "./skills/bootstrap-vue3",
