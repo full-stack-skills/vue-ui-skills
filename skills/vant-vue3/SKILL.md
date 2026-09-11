@@ -1,7 +1,7 @@
 ---
 name: vant-vue3
 description: Provides structured guidance for Vant of Vue 3.0. Use when the user needs Vant with Vue 3, asks about mobile UI components such as Button, Cell, Form, Dialog, Toast, Popup, ConfigProvider, theme customization, project setup, or wants to implement mobile-first interfaces with `vant` or `van-` components. This skill is aligned to the official Vant website and usage guide and should be used as the Vant Vue 3 skill entry.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 # Vant of Vue 3

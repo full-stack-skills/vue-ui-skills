@@ -1,7 +1,7 @@
 ---
 name: layui-vue3
 description: Provides comprehensive guidance for Layui Vue component library including components, layer dialogs, and utilities. Use when the user asks about Layui Vue, needs to use Layui components in Vue 3, or implement UI components.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill
