@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vant Vue3"
+  short_description: "Provides structured guidance for Vant of Vue 3.0"
+  default_prompt: "Use $vant-vue3 to help with my current task: Provides structured guidance for Vant of Vue 3.0."

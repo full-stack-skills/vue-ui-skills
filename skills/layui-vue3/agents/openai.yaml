@@ -1,0 +1,4 @@
+interface:
+  display_name: "Layui Vue3"
+  short_description: "Layui Vue component library including components, layer…"
+  default_prompt: "Use $layui-vue3 to help with my current task: Provides comprehensive guidance for Layui Vue component library including components, layer dialogs, and utilities."
